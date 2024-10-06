@@ -6,6 +6,10 @@ This project is a proof of concept how to:
 - Render consumed data using a saved template.
 - Send the results to a registered producer topic.
 
+Here's a diagram showing where the service is set up:
+![Yoshida Setup](https://github.com/ankasatu/yoshida/blob/main/.github/diagram.png?raw=true)
+
+
 ### Stack
 - Framework: Spring Boot
 - Database: PostgreSQL
